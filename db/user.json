@@ -1,0 +1,38 @@
+[
+    {
+        "email": "hasansoodmand@gmail.com",
+        "password": "01",
+        "username": "hasan",
+        "fullname": "\u062d\u0633\u0646 \u0633\u0648\u062f\u0645\u0646\u062f"
+    },
+    {
+        "email": "somi.soodmand@gmail.com",
+        "password": "123",
+        "username": "somi",
+        "fullname": "\u0633\u0645\u06cc\u0647 \u0633\u0648\u062f\u0645\u0646\u062f"
+    },
+    {
+        "username": "somaye",
+        "email": "somaye.soodmand@gmail.com",
+        "password": "123",
+        "fullname": "\u0633\u0645\u06cc\u0647 \u0633\u0648\u062f\u0645\u0646\u062f"
+    },
+    {
+        "username": "elahe",
+        "email": "elahe.soodmand@gmail.com",
+        "password": "1",
+        "fullname": "\u0627\u0644\u0647\u0647 \u0633\u0648\u062f\u0645\u0646\u062f"
+    },
+    {
+        "email": "reza.soodmand@gmail.com",
+        "password": "12",
+        "username": "reza",
+        "fullname": "\u0631\u0636\u0627 \u0633\u0648\u062f\u0645\u0646\u062f"
+    },
+    {
+        "email": "ali.soodmand@gmail.com",
+        "password": "123",
+        "username": "ali",
+        "fullname": "\u0639\u0644\u06cc \u0633\u0648\u062f\u0645\u0646\u062f"
+    }
+]
